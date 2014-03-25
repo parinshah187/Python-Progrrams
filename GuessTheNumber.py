@@ -58,12 +58,12 @@ def get_input(guess):
             init()
         elif guess==var2 :
             print "Bingo ! Correct answer is :",var2," !\n"
-            msg = "Bingo ! Correct answer is :"+str(var2)+" !\n"
+            msg = "Bingo ! Correct answer is :"+str(var2)+" !"
             init()
     
     elif attempts_left==0 & guess==var2:
         print "Bingo ! Correct answer is :",var2," !\n"
-        msg = "Bingo ! Correct answer is :"+str(var2)+" !\n"
+        msg = "Bingo ! Correct answer is :"+str(var2)+" !"
         init()
         
     else :
