@@ -1,4 +1,4 @@
-# http://www.codeskulptor.org/#user10_csmyFTqrcU_1.py
+# http://www.codeskulptor.org/#user29_xqQz0cHfPRqbeUR.py
 # Rock-paper-scissors-lizard-Spock
 
 
